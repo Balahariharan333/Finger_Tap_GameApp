@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(MaterialApp(home: mainApp()));
+  runApp(MaterialApp(
+    debugShowCheckedModeBanner: false,
+    home: mainApp()));
 }
 
 // ignore: camel_case_types
