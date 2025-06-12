@@ -8,7 +8,7 @@ A fast-paced 2-player Flutter game that challenges your tapping speed! Built for
 
 | Start Screen | Gameplay | Winner Screen |
 |-------------|----------|----------------|
-| ![Start](screenshots/start.png) | ![Gameplay](screenshots/gameplay.png) | ![Winner](screenshots/winner.png) |
+| ![Start]([screenshots/start.png](https://github.com/Balahariharan333/Finger_Tap_GameApp/blob/master/FingerTapGame%20Screenshots/start.png?raw=true)) | ![Gameplay](screenshots/gameplay.png) | ![Winner](screenshots/winner.png) |
 
 > *(Make sure to place your images inside a `screenshots` folder for this to work.)*
 
