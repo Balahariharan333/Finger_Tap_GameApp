@@ -10,7 +10,7 @@ A fast-paced 2-player Flutter game that challenges your tapping speed! Built for
 |-------------|----------|----------------|
 | ![Start](https://github.com/Balahariharan333/Finger_Tap_GameApp/blob/master/FingerTapGame%20Screenshots/start.png?raw=true) | ![Gameplay](https://github.com/Balahariharan333/Finger_Tap_GameApp/blob/master/FingerTapGame%20Screenshots/Screenshot%202025-06-12%20063445.png?raw=true) | ![Winner](https://github.com/Balahariharan333/Finger_Tap_GameApp/blob/master/FingerTapGame%20Screenshots/Screenshot%202025-06-12%20063508.png?raw=true) |
 
-> *(Make sure to place your images inside a `screenshots` folder for this to work.)*
+
 
 ---
 
